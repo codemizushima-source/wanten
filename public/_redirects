@@ -1,0 +1,12 @@
+/* Netlify SPA Redirects */
+/* Redirect all requests to index.html for React Router compatibility (if added later) */
+/* and general SPA behavior */
+/* https://docs.netlify.com/routing/redirects/rewrites-proxies/#history-pushstate-and-single-page-applications */
+/* Note: This file should be in the 'public' directory in a standard Vite project, 
+   but in this environment, we'll place it where it can be included in the build output. 
+   Actually, the platform handles the build. I'll create it in the root just in case. */
+/* For Netlify, it's usually public/_redirects */
+
+/*
+/*  /index.html  200
+*/

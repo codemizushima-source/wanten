@@ -1,0 +1,7 @@
+{
+  "name": "わん天 (Wan-Ten)",
+  "description": "犬のための天気予報アプリ。気象データからお散歩快適度と路面温度を算出し、安全な散歩時間を提案します。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
